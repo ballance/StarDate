@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.StarDate", "Ballan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.StarDate.Tests", "Ballance.StarDate.Tests\Ballance.StarDate.Tests.csproj", "{34DCC542-C735-4FD2-BAF5-F884249B4103}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballance.StarDate.Console", "Ballance.StarDate.Console\Ballance.StarDate.Console.csproj", "{8082C07B-E165-49F3-9C27-C8797DD427DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{34DCC542-C735-4FD2-BAF5-F884249B4103}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34DCC542-C735-4FD2-BAF5-F884249B4103}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34DCC542-C735-4FD2-BAF5-F884249B4103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8082C07B-E165-49F3-9C27-C8797DD427DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8082C07B-E165-49F3-9C27-C8797DD427DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8082C07B-E165-49F3-9C27-C8797DD427DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8082C07B-E165-49F3-9C27-C8797DD427DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
