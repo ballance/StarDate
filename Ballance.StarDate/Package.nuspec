@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Chris Ballance</authors>
+    <owners>Chris Ballance</owners>
+    <licenseUrl>http://ballance.it/star_date_license.txt</licenseUrl>
+    <projectUrl>http://ballance.it</projectUrl>
+    <iconUrl>http://ballance.it/assets/stardate.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>StarDate Extension method for C# DateTime</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>StarTrek TNG ProgrammingFun</tags>
+  </metadata>
+</package>
